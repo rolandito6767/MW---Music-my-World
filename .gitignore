@@ -1,0 +1,17 @@
+node_modules/
+dist/
+*.log
+.DS_Store
+
+# No publiques tu biblioteca personal ni sus archivos de audio.
+*.mp3
+*.wav
+*.flac
+*.m4a
+*.aac
+*.ogg
+*.wma
+.env
+.env.*
+!.env.example
+.cache/
